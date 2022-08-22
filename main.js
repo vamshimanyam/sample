@@ -1,5 +1,5 @@
-function calculate(a,b){
-    return a+b;
+for(i=1;i<11;i++){
+    for(j=2;j<3;j++){
+        console.log(i*j)
+    }
 }
-
-console.log(calculate(10,12));
